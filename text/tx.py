@@ -9,10 +9,11 @@ while i < 9:
     else:
         print()
 print("修改了亿下")
-print("修改了亿下")
-print("修改了亿下")
-print("修改了亿下")
-print("修改了亿下")
+
+
+
+
+
 print("修改了亿下")
 
 
